@@ -19,7 +19,6 @@ Spotify:	https://open.spotify.com/artist/7wH1Hp3nRNn7QKnmyT838Y<br/>
 Tiktok:		https://www.tiktok.com/@bemusical<br/>
 Twitch:		https://www.twitch.tv/connermusician<br/>
 Twitter:	https://www.twitter.com/itsmusician<br/>
-<br/><br/>
 
 I created some of the factory impulses for the Kilohearts Convolver
 and I'm really proud of them!
