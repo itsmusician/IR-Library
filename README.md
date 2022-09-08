@@ -21,7 +21,7 @@ Twitch:		https://www.twitch.tv/connermusician<br/>
 Twitter:	https://www.twitter.com/itsmusician<br/>
 
 I created some of the factory impulses for the Kilohearts Convolver
-and I'm really proud of them!
+including some here and I'm really proud of them!
 <br/>
 Check it out here: https://kilohearts.com/products/convolver
 <br/><br/><br/>
