@@ -35,7 +35,7 @@ Check it out here: https://kilohearts.com/products/convolver
  #
 #####################################
 
-1.0.0 - [2022.09.07] A warm autumnal Wednesday
+1.0.0 - [2022.09.08] A warm but rainy autumnal Thursday
 	First official release including a changelog!
 
 	Added the following categories and subcategories:
