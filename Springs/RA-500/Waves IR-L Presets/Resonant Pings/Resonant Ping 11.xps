@@ -1,0 +1,47 @@
+<PresetXMLTree version="2">
+    <Preset Name="Resonant Ping 11" GenericType="CVRB">
+        <PresetHeader>
+            <PluginName>IR-1</PluginName>
+            <PluginSubComp>C0FS</PluginSubComp>
+            <PluginVersion>12.0.0</PluginVersion>
+            <ReadOnly>false</ReadOnly>
+        </PresetHeader>
+        <PresetData Setup="CURRENT">
+            <Parameters Type="RealWorld">1 0 100 0 1 1 0 0 0 0
+1 1 1 1 1 0 1 1 600
+2500 0 0 0 0 0 0 0 0
+0 0 0 100 5005.6000000000003638 301 1200.4000000000000909 1 1
+1.2800000000000000266 1.6400000000000001243 6.0099999999999997868 * * * * * *
+* * * * 0 * * * *
+* * 3.2999999999999998224 -0.34849999999999992095 0 0 0 0 0
+1 0 1 0 0 * * * 0
+0 0 * * * * * * *
+* 50 0 0 0 -60 0 * *
+* * * * * * </Parameters>
+            <PluginSpecific TagName="Envelope Points" MenuItemString="Envelope Points" TagID="0" DataType="BufferDouble">
+                <Flags>
+                    <load_with_params/>
+                </Flags>
+                <Descriptors>
+                    <Descriptor Name="NumPoints">2</Descriptor>
+                    <Descriptor Name="EnvelopeVersion">1.0</Descriptor>
+                </Descriptors>
+                <Data>0 666.66666666666674246 1000 666.66666666666674246</Data>
+            </PluginSpecific>
+            <PluginSpecific TagName="Impulse Response" MenuItemString="Impulse Response" TagID="1" DataType="NoData">
+                <Descriptors>
+                    <Descriptor Name="DataVersion">1.1</Descriptor>
+                    <Descriptor Name="IRtitle">Resonant Ping 11</Descriptor>
+                    <Descriptor Name="SampleRate">48000</Descriptor>
+                    <Descriptor Name="IRFileNameFull1">../../../Volumes/macOS NVMe/Impulse Responses/Conner/Springs/RA-500/Impulse Responses (WAV)/Resonant Ping 11.wav</Descriptor>
+                    <Descriptor Name="IRLength">95999</Descriptor>
+                    <Descriptor Name="RT60">1.88553</Descriptor>
+                    <Descriptor Name="DirectLength">3.00000</Descriptor>
+                    <Descriptor Name="Norm">17.14755</Descriptor>
+                    <Descriptor Name="Norm_in_dB">24.6840405464</Descriptor>
+                </Descriptors>
+                <Data/>
+            </PluginSpecific>
+        </PresetData>
+    </Preset>
+</PresetXMLTree>
