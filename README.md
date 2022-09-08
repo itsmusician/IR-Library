@@ -35,6 +35,9 @@ Check it out here: https://kilohearts.com/products/convolver
 	
 	+ Minimal README polishes to migrate from txt to md format.
 	+ Removed macOS-exclusive base files
+	
+	Renamed the following impulse responses:
+	Smartphone Speaker Dispersion -> Smartphone 1 Speaker Dispersion
     
 	
 **1.0.0** - [2022.09.08] A warm but rainy autumnal Thursday.
