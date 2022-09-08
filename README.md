@@ -1,42 +1,38 @@
-#########################################
-   #
-  #        INFO + AGREEMENT :)
- #
-#####################################
+#	Conner's Impulse Response Library :)
+A public library of impulse responses for anyone to use.
+<br/><br/><br/>
 
+
+##        INFO + AGREEMENT
 You can use these for anything except redistributing them commercially
 (Don't sell these), no credit necessary.
-
+<br/>
 
 Enjoy!
+<br/>
 
-
-You can find me here:
-
-Discord:	https://discord.gg/rCwH9jW
-Instagram:	https://www.tiktok.com/@bemusical
-Soundcloud:	https://soundcloud.com/cs64
-Spotify:	https://open.spotify.com/artist/7wH1Hp3nRNn7QKnmyT838Y
-Tiktok:		https://www.tiktok.com/@bemusical
-Twitch:		https://www.twitch.tv/connermusician
-Twitter:	https://www.twitter.com/itsmusician
-
+You can find me here:<br/>
+Discord:	https://discord.gg/rCwH9jW<br/>
+Instagram:	https://www.tiktok.com/@bemusical<br/>
+Soundcloud:	https://soundcloud.com/cs64<br/>
+Spotify:	https://open.spotify.com/artist/7wH1Hp3nRNn7QKnmyT838Y<br/>
+Tiktok:		https://www.tiktok.com/@bemusical<br/>
+Twitch:		https://www.twitch.tv/connermusician<br/>
+Twitter:	https://www.twitter.com/itsmusician<br/>
+<br/><br/>
 
 I created some of the factory impulses for the Kilohearts Convolver
 and I'm really proud of them!
-
+<br/>
 Check it out here: https://kilohearts.com/products/convolver
+<br/><br/><br/>
 
 
+##            CHANGELOG
 
-#########################################
-   #
-  #            CHANGELOG
- #
-#####################################
-
-1.0.0 - [2022.09.08] A warm but rainy autumnal Thursday
+**1.0.0** - [2022.09.08] A warm but rainy autumnal Thursday
 	First official release including a changelog!
+<br/>
 
 	Added the following categories and subcategories:
 	+ Enclosed Spaces
@@ -147,10 +143,11 @@ Check it out here: https://kilohearts.com/products/convolver
 	+ Dream Throb
 	+ Shimmerstorm
 	+ Synthetic Resonance
-	
-	
 
 
-0.0.0 - [Pre-History]
+
+**0.0.0** - [Pre-History] Before the dawn of time (of this repo)
+<br/>
+
 	All items contained in this collection prior to succeeding
 	revisions denoted above :)
