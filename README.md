@@ -35,6 +35,8 @@ Check it out here: https://kilohearts.com/products/convolver
 	A Tiny lil update!
 	
 	+ Minimal README polishes to migrate from txt to md format.
+	+ Removed macOS-exclusive base files
+    
 	
 **1.0.0** - [2022.09.08] A warm but rainy autumnal Thursday.
 <br/>
