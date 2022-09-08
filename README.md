@@ -13,7 +13,7 @@ Enjoy!
 
 You can find me here:<br/>
 Discord:	https://discord.gg/rCwH9jW<br/>
-Instagram:	https://www.tiktok.com/@bemusical<br/>
+Instagram:	https://www.instagram.com/conner.musician/<br/>
 Soundcloud:	https://soundcloud.com/cs64<br/>
 Spotify:	https://open.spotify.com/artist/7wH1Hp3nRNn7QKnmyT838Y<br/>
 Tiktok:		https://www.tiktok.com/@bemusical<br/>
