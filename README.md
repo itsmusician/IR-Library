@@ -29,10 +29,18 @@ Check it out here: https://kilohearts.com/products/convolver
 
 ##            CHANGELOG
 
-**1.0.0** - [2022.09.08] A warm but rainy autumnal Thursday
-	First official release including a changelog!
+**1.0.1** - [2022.09.08] The same Thursday, a little later
 <br/>
 
+	A Tiny lil update!
+	
+	+ Minimal README polishes to migrate from txt to md format.
+	
+**1.0.0** - [2022.09.08] A warm but rainy autumnal Thursday.
+<br/>
+
+	First official release including a changelog!
+	
 	Added the following categories and subcategories:
 	+ Enclosed Spaces
 	+ Enclosed Spaces/2002 Sedan
