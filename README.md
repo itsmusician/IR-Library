@@ -1,16 +1,14 @@
 #	Conner's Impulse Response Library :)
-A public library of impulse responses for anyone to use.
+A public library of impulse responses for anyone to use freely under the MIT License.
 <br/><br/><br/>
 
 
-##        INFO + AGREEMENT
+##        Info
+
 This library contains hundreds of impulse responses of a great variety,
 from all kinds locations, spaces, gear, objects, instruments, and more!
 
 Currently, the library is ~1.6 GB large.
-
-You can use these for anything except redistributing them commercially
-(Don't sell these), no credit necessary.
 <br/>
 
 Enjoy!
@@ -31,4 +29,26 @@ Check it out here: https://kilohearts.com/products/convolver
 <br/><br/><br/>
 
 
-##            [CHANGELOG](/Changelog.md)
+##        Sentiment
+It's my hope to provide a really good starting point for anyone needing a collection of
+impulse responses, for any variety of professional or personal projects. I love being
+able to use impulses to put a sound in a new location, process it wildly, or have it
+occupy a fresh musical context. I hope to give others that same freedom, therefore this
+library exists.
+
+I've decided that assigning a very open license, the MIT License, will help this project
+fulfill that objective and let my intentions for the library to be very permissive become
+both legally and practically explicit. No attribution and the ability to modify and allow
+commercial use are important to me, and the previous agreement up to the adoption of this
+license felt lacking in explicit permission. The requirement of the license to be carried
+on in subsequent and derivative or modified versions will hopefully enforce the permissive
+nature of this library, and continue to allow these IRs to be accessible and useful.
+
+The license may be found below.
+<br/><br/><br/>
+
+
+##            [License](/License.md)
+
+
+##            [Changelog](/Changelog.md)

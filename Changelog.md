@@ -1,5 +1,25 @@
 ##            CHANGELOG
 
+**1.1.1** - [2022.09.11] The Sunday afternoon after
+<br/>
+
+	A proper license has been decided!
+
+	And it's the MIT License:
+	+ Added License.md containing the license agreement for the usage of this library.
+	+ Separated the INFO + AGREEMENT section into new Info, Sentiment, and License sections.
+	  Info gives an overview and some technical info, while sentiment offers some of the
+	  purpose and decision-making insight. License links the user to the new License.md file.
+	
+	To briefly mirror why this license was chosen, as is discussed in the new sentiment
+	section, I felt its balance of permissiveness and legal clarity suited the project well.
+
+	No attribution and the ability to modify and allow commercial use are important to me,
+	and I want others to be aware of that. This license allows that and is familiar to many
+	which will hopefully make the intent understood. The agreement until now that I have
+	included felt like it was headed in this direction, and needed some clarity.
+
+
 **1.1.0** - [2022.09.10] An hot and rainy Saturday
 <br/>
 
