@@ -4,7 +4,7 @@ A public library of impulse responses for anyone to use.
 
 
 ##        INFO + AGREEMENT
-This library contains about hundreds of impulse responses of a great variety,
+This library contains hundreds of impulse responses of a great variety,
 from all kinds locations, spaces, gear, objects, instruments, and more!
 
 Currently, the library is ~1.6 GB large.
