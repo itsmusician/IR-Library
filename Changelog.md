@@ -3,7 +3,7 @@
 **1.2.0** - [2022.09.20] A thunderstorm-filled Tuesday
 <br/>
 
-	New impulses, new documentation + edits
+	New impulses, new documentation + README changes
 
 	+ README now includes the current, latest version in the absense of an embedded changelog.
 	+ README now includes a contributors section, to be expanded.
