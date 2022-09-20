@@ -1,5 +1,34 @@
 ##            CHANGELOG
 
+**1.2.0** - [2022.09.20] A thunderstorm-filled Tuesday
+<br/>
+
+	New impulses, new documentation + edits
+
+	+ README now includes the current, latest version in the absense of an embedded changelog.
+	+ README now includes a contributors section, to be expanded.
+	+ A new background info document for the new Menorcan bunker impulses courtesy of Gater.
+
+	Added the following category:
+	+ Rooms/Historical/Menorcan Spanish Civil War Bunkers
+
+	Added the following impulse responses:
+	Rooms
+	+ Bunker 1 Entry Far
+	+ Bunker 1 Entry Near
+	+ Bunker 1 Rear Back
+	+ Bunker 1 Rear Back Center
+	+ Bunker 1 Rear Center
+	+ Bunker 1 Rear Front Center
+	+ Bunker 1 Rear Front
+	+ Bunker 2 Entry Far
+	+ Bunker 2 Entry Near
+	+ Bunker 2 Stair Bottom
+	+ Bunker 2 Stair Top
+	Utility
+	+ Unit Silence
+
+
 **1.1.1** - [2022.09.11] The Sunday afternoon after
 <br/>
 

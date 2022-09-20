@@ -1,10 +1,10 @@
 #	Conner's Impulse Response Library :)
 A public library of impulse responses for anyone to use freely under the MIT License.
+Latest Version: 1.2.0
 <br/><br/><br/>
 
 
 ##        Info
-
 This library contains hundreds of impulse responses of a great variety,
 from all kinds locations, spaces, gear, objects, instruments, and more!
 
@@ -45,6 +45,19 @@ on in subsequent and derivative or modified versions will hopefully enforce the 
 nature of this library, and continue to allow these IRs to be accessible and useful.
 
 The license may be found below.
+<br/><br/><br/>
+
+
+##        Contributors
+The following people have directly contributed and helped make this library better
+either by means of original raw recording sessions for me to create IRs from or by
+contributing their own IRs -- both of which they had all the necessary rights to and
+ownership of, and acknowledge that by contributing them, those IRs fall under the
+licensing terms of this project (The MIT License), free for anyone to use.
+
+Thank you:
+
+- Gater
 <br/><br/><br/>
 
 
