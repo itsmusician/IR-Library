@@ -1,5 +1,141 @@
 ##            CHANGELOG
 
+**1.2.2** - [2023.01.11] A sunny and cool January Wednesday
+<br/>
+
+	A variety of new household and other impulses!
+
+	The largest and most noticeable set from this batch will be the SSM-1750 ones, I've included
+	both SDIR and WAV for all of these because they are True Stereo. I've grabbed responses for
+	different channel configurations as well as a relatively thorough sweep of settings from the
+	unit's delay. I already made 3 IRs previously from this unit which were not recorded True
+	Stereo, so no SDIR for them. The Balance Right Full IR is a mirror edited version of the Left
+	counterpart, as I mistakenly did not record that one TS in the original session. It should be
+	essentially exactly the same as what one would expect anyway, but in case that is important
+	info to someone there you have it. These have very light noise reduction so in some of them
+	one may hear aliasing artifacts.
+
+	I also grabbed (another!) sustain pedal IR of the Winter Upright, knowing this time I could
+	get a nicer clean one having been a little more prepared with adequate gear on hand. I decided
+	to call this new one "Hyper Sustain" because the tuning has since changed a little again (thanks
+	to the weather). It should still be relatively in tune and have quite a clean and long tail.
+
+	The first time I attempted to record the toilet bowl IR I ultimately dropped my field recorder
+	in the toilet. Fortunately it survived with no harm, however, the resulting responses were not
+	very good. So it endured another scary round of recording, safely and more securely. The new
+	IR was good, and I will likely not be creating more of this type soon.
+
+	Added the following subcategories:
+	 + Enclosed Spaces/Old Home Appliances
+	 + Esoteric Hardware/Old Cabinet Gramophone
+	 + Formant and Resonant/Toilet
+	 + Rooms/Residential/Old Home
+	
+	Added the following impulse responses:
+	Enclosed Spaces
+	 + Old Home Dryer
+	 + Old Home Oven
+	 + Old Home Washing Machine
+	Esoteric Hardware
+	 + Old Cabinet Gramophone
+	Formant and Resonant
+	 + SSM-1750 Channel Balance Left Full
+	 + SSM-1750 Channel Balance Left Half
+	 + SSM-1750 Channel Balance Right Full
+	 + SSM-1750 Channel Balance Right Half
+	 + SSM-1750 Channel Default
+	 + SSM-1750 Channel High Boost
+	 + SSM-1750 Channel High Cut
+	 + SSM-1750 Channel Low Boost
+	 + SSM-1750 Channel Low Cut
+	 + SSM-1750 Channel Mid Boost
+	 + SSM-1750 Channel Mid Cut
+	 + SSM-1750 Channel Mono
+	 + SSM-1750 Echo 00 Delay 00 Repeat
+	 + SSM-1750 Echo 00 Delay 05 Repeat
+	 + SSM-1750 Echo 00 Delay 10 Repeat
+	 + SSM-1750 Echo 01 Delay 00 Repeat
+	 + SSM-1750 Echo 01 Delay 05 Repeat
+	 + SSM-1750 Echo 01 Delay 10 Repeat
+	 + SSM-1750 Echo 02 Delay 00 Repeat
+	 + SSM-1750 Echo 02 Delay 05 Repeat
+	 + SSM-1750 Echo 02 Delay 10 Repeat
+	 + SSM-1750 Echo 03 Delay 00 Repeat
+	 + SSM-1750 Echo 03 Delay 05 Repeat
+	 + SSM-1750 Echo 03 Delay 10 Repeat
+	 + SSM-1750 Echo 04 Delay 00 Repeat
+	 + SSM-1750 Echo 04 Delay 05 Repeat
+	 + SSM-1750 Echo 04 Delay 10 Repeat
+	 + SSM-1750 Echo 05 Delay 00 Repeat
+	 + SSM-1750 Echo 05 Delay 05 Repeat
+	 + SSM-1750 Echo 05 Delay 10 Repeat
+	 + SSM-1750 Echo 06 Delay 00 Repeat
+	 + SSM-1750 Echo 06 Delay 05 Repeat
+	 + SSM-1750 Echo 06 Delay 10 Repeat
+	 + SSM-1750 Echo 07 Delay 00 Repeat
+	 + SSM-1750 Echo 07 Delay 05 Repeat
+	 + SSM-1750 Echo 07 Delay 10 Repeat
+	 + SSM-1750 Echo 08 Delay 00 Repeat
+	 + SSM-1750 Echo 08 Delay 05 Repeat
+	 + SSM-1750 Echo 08 Delay 10 Repeat
+	 + SSM-1750 Echo 09 Delay 00 Repeat
+	 + SSM-1750 Echo 09 Delay 05 Repeat
+	 + SSM-1750 Echo 09 Delay 10 Repeat
+	 + SSM-1750 Echo 10 Delay 00 Repeat
+	 + SSM-1750 Echo 10 Delay 05 Repeat
+	 + SSM-1750 Echo 10 Delay 10 Repeat
+	 + Toilet Bowl Closed
+	Rooms
+	 + Old Home AC Intake Vent
+	 + Old Home Guest Bath Towel Closet
+	 + Old Home Guest Bath Tub Resonator
+	 + Old Home Guest Bath
+	 + Old Home Hallway Far
+	 + Old Home Hallway Near
+	 + Old Home Living Room
+	Strings
+	 + Hyper Sustain
+
+
+**1.2.1** - [2022.12.22] An overcast, moderate December Thursday
+<br/>
+
+	More impulses, a retuned piano (sort of), and small memos.
+	
+	Regarding the new piano impulses, they come from the same Winter upright piano as the
+	originals, the first and only piano I've ever owned (as of writing). I spent about 4 hours
+	learning how to tune a piano, with mild success. The result is that all the strings now
+	roughly hover over a more correct pitch center, and most of the strings are much less
+	locally detuned. I didn't get it perfect, however, but I think having IRs that are more in
+	tune will be generall much more useful to most people.
+
+	The "Basilica Dome Glass Bowls" come from the bowl-shaped scraps of glass pieces that were
+	blown for a section of the dome in the Santa Maria degli Angeli e dei Martiri basilica in
+	Rome. They were recorded using a delicately-placed contact mic + a soft and fearful sine sweep.
+	Paranoia and respect required that I must absolutely not break or damage the pieces, and so
+	especially in the little bowl an aggressive noise floor meant heavy post production, and
+	relatively mild results. I still think they're cool though, and someday I'll hopefully revisit
+	and make nicer ones.
+
+	Added the following subcategories:
+	 + Formant and Resonant/Basilica Dome Glass Bowls
+	 + Strings/Winter Upright/New Retuned
+	 + Strings/Winter Upright/Original Detuned
+	
+	Added the following impulse responses:
+	Formant and Resonant
+	 + Basilica Dome Glass Bowls Big
+	 + Basilica Dome Glass Bowls Little
+	 + Basilica Dome Glass Bowls Nested
+	Strings
+	 + Winter Upright Closed Bass Sustain
+	 + Winter Upright Closed Default
+	 + Winter Upright Closed Sustain
+	 + Winter Upright Open Bass Sustain
+	 + Winter Upright Open Default
+	 + Winter Upright Open Sustain
+
+
 **1.2.0** - [2022.09.20] A thunderstorm-filled Tuesday
 <br/>
 
@@ -112,7 +248,7 @@
 	Added the following categories and subcategories:
 	+ Enclosed Spaces
 	+ Enclosed Spaces/2002 Sedan
-	+ Esoteric Hardware/RadioShack SSM-1750
+	+ Esoteric Hardware/RadioShack 	 + SSM-1750
 	+ Esoteric Hardware/Railings
 	+ Esoteric Hardware/Rusty Steel Sheet
 	+ Formant and Resonant
