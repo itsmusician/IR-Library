@@ -2,7 +2,7 @@
 A public library of impulse responses for anyone to use freely under the MIT License.
 <br/>
 
-Latest Version: 1.2.2
+Latest Version: 1.2.3
 <br/><br/><br/>
 
 
@@ -10,7 +10,7 @@ Latest Version: 1.2.2
 This library contains hundreds of impulse responses of a great variety,
 from all kinds locations, spaces, gear, objects, instruments, and more!
 
-Currently, the library is ~1.86 GB large.
+Currently, the library is ~1.96 GB large.
 <br/>
 
 Enjoy!
