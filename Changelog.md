@@ -1,5 +1,58 @@
 ##            CHANGELOG
 
+**1.2.3** - [2023.04.25] A rainy and decently hot April Tuesday
+<br/>
+
+	A bunch of new categories, sounds, and some updated names!
+
+	Starting off with the latter, to prevent potential future conflicts regarding names:
+	I've renamed a few directories and IRs to reflect a more generic title. The samples themselves
+	remain unchanged, but these names are incompatible with previous versions. Sorry!
+
+	Ok now for the fun stuff, it's not a massive collection this time around but I've got some
+	weird gear and cool rooms added in, and some really basic color-bass inspired chromatic bits.
+
+	Added the following categories and subcategories:
+	 + Esoteric Hardware/2000s Digital Piano
+	 + Esoteric Hardware/Tiny T-Shirt Amplifier
+	 + Rooms/Commercial/Hotels/Ballrooms
+	 + Rooms/Commercial/Hotels/Bathrooms
+	 + Synthesized/Chromatic
+	 + Synthesized/Chromatic/Stacked Synth Chords
+
+	Added the following impulse responses:
+	Esoteric Hardware
+	 + 2000s Digital Piano Mic Loopback Impulse Echo
+	 + 2000s Digital Piano Mic Loopback Impulse
+	 + 2000s Digital Piano Tone Click Dry
+	 + 2000s Digital Piano Tone Click Reverb Hall 1
+	 + 2000s Digital Piano Tone Click Reverb Hall 2
+	 + 2000s Digital Piano Tone Click Reverb Room 1
+	 + 2000s Digital Piano Tone Click Reverb Room 2
+	 + Tiny T-Shirt Amplifier Line Out 
+	 + Tiny T-Shirt Amplifier Tone 0
+	 + Tiny T-Shirt Amplifier Tone 1
+	 + Tiny T-Shirt Amplifier Tone 2
+	 + Tiny T-Shirt Amplifier Tone 3
+	 + Tiny T-Shirt Amplifier Tone 4
+	 + Tiny T-Shirt Amplifier Tone 5
+	 + Tiny T-Shirt Amplifier Tone 6
+	 + Tiny T-Shirt Amplifier Tone 7
+	 + Tiny T-Shirt Amplifier Tone 8
+	 + Tiny T-Shirt Amplifier Tone 9
+	 + Tiny T-Shirt Amplifier Tone 10
+	Rooms
+	 + College Master Bedroom Light Treatment
+	 + Palm Ballroom
+	 + Royal Ballroom
+	Synthesized
+	 + C Giga Lydian #15 Supersquare
+	 + C Lydian 17 #15 Supersaw
+	 + C Major 13 Supersaw
+	 + E Minor 11 Supersaw
+	 + G Major 9 Supersaw
+
+
 **1.2.2** - [2023.01.11] A sunny and cool January Wednesday
 <br/>
 
@@ -248,7 +301,7 @@
 	Added the following categories and subcategories:
 	+ Enclosed Spaces
 	+ Enclosed Spaces/2002 Sedan
-	+ Esoteric Hardware/RadioShack 	 + SSM-1750
+	+ Esoteric Hardware/RadicalShack SSM-1750
 	+ Esoteric Hardware/Railings
 	+ Esoteric Hardware/Rusty Steel Sheet
 	+ Formant and Resonant
@@ -264,7 +317,7 @@
 	+ Rooms/Commercial/Hotels/Hotel Rooms
 	+ Rooms/Residential/Villa 10
 	+ Speakers/Rotary
-	+ Speakers/Rotary/Leslie 984
+	+ Speakers/Rotary/Rotary L 984
 	+ Speakers/Telephones
 	+ Synthesized
 	
@@ -337,15 +390,15 @@
 	+ Garage Bang Snap Near
 	+ Villa 10 Hall Distant
 	Speakers
-	+ Leslie 984 Full 1 (N)
-	+ Leslie 984 Full 2 (NE)
-	+ Leslie 984 Full 3 (E)
-	+ Leslie 984 Full 4 (SE)
-	+ Leslie 984 Full 5 (S)
-	+ Leslie 984 Full 6 (SW)
-	+ Leslie 984 Full 7 (W)
-	+ Leslie 984 Full 8 (NW)
-	+ Leslie 984 Swirl
+	+ Rotary L 984 Full 1 (N)
+	+ Rotary L 984 Full 2 (NE)
+	+ Rotary L 984 Full 3 (E)
+	+ Rotary L 984 Full 4 (SE)
+	+ Rotary L 984 Full 5 (S)
+	+ Rotary L 984 Full 6 (SW)
+	+ Rotary L 984 Full 7 (W)
+	+ Rotary L 984 Full 8 (NW)
+	+ Rotary L 984 Swirl
 	+ Smartphone Speaker Dispersion
 	Strings
 	+ Winter Upright Piano Damper 1
