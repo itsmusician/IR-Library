@@ -1,5 +1,203 @@
 ##            CHANGELOG
 
+**1.3.0** - [2024.01.15] A cool and overcast January evening (a long time later...)
+<br/> 
+
+	A whole overhaul of some categories and titles, and a bunch of new IRs!!! Yayyyyyyy!!!!!!
+
+	It's been almost a year... Sorry about that. I've still been making quite a few IRs, but
+	I've been through a whole new computer after the previous catastrophically failed, some traveling,
+	a load of schoolwork, and some other assorted events.
+
+	Good news though, there's a lot of new IRs that have been building up (Over 100!). In particular, I've
+	been recording a bunch more objects and instruments. As a result I'm not too satisfied with the existing
+	folder hierarchy and a bunch of renaming and grouping has happened. See below.
+
+	There's also some more gear and rooms and spaces, some of these took a while because I wasn't very happy
+	with the post work on them. I've revisited and polished to be okay with including, though that means some
+	authenticity as a result has been lost. And some are a little weird.
+
+	Anyway, I'm really happy to share a bunch of new stuff and have even more things planned upcoming.
+	Thank you all for being patient, enough blabber.
+
+	Added the following categories and subcategories:
+	 + Enclosed Spaces/Watercraft
+	 + Hardware/Rackmount
+	 + Hardware/Rackmount/Magical 2830 Interface
+	 + Hardware/Tape
+	 + Hardware/Tape/Consumer Cassette Deck
+	 + Hardware/Tape/Portable Cassette Recorder
+	 + Hardware/Tape/Sticky Quarter Inch 4 Track R2R
+	 + Instruments/Autoharp
+	 + Instruments/Cymbals
+	 + Objects/Metallic
+	 + Objects/Natural
+	 + Objects/Pipes and Tubes
+	 + Objects/Swords
+	 + Outdoors/Public/Parks
+	 + Rooms/Commercial/Shops
+	 + Rooms/Commercial/Shops/Ancient Wand Shop
+	 + Rooms/Public
+	 + Rooms/Public/Orange County Convention Center
+	 + Rooms/Public/University of Central Florida
+	 + Speakers/Miscellaneous
+	 + Springs/Boom Arm Spring
+	 + Synthesized/Granular
+	 + Synthesized/Unit Impulse Pitch Remap
+
+	Updated the following categories and subcategories:
+	 + Esoteric Hardware -> Hardware
+	 + Formant and Resonant -> Objects
+	 + Strings -> Instruments
+	 + Esoteric Hardware/RadicalShack SSM-1750 -> Hardware/Rackmount/SSM-1750
+	 + Esoteric Hardware/Railings -> Objects/Metallic/Rails
+	 + Esoteric Hardware/Rusty Steel Sheet -> Objects/Metallic/Sheets
+	 + Esoteric Hardware/Tiny T-Shirt Amplifier -> Speakers/Tiny T-Shirt Amplifier
+	 - Esoteric Hardware/Wire Rack Shelf
+	   -> Objects/Metallic/Rails
+	 + Formant and Resonant/Breathy Vowels -> Instruments/Breathy Vowels
+	 + Formant and Resonant/Instrumental Resonance -> Instruments/Miscellaneous
+												   -> Instruments/Raw Piezo Captures
+												   -> Instruments/Wind Section Bursts
+	 + Formant and Resonant/Toilet -> Objects/Toilets
+	 + Rooms/Craft Coffee Shop -> Rooms/Shops/Craft Coffee Shop
+	 + Rooms/Tall Coffee Shop -> Rooms/Shops/Tall Coffee Shop
+	 + Strings/Winter Upright -> Instruments/Winter Upright Piano
+
+	Added the following impulse responses:
+	Enclosed Spaces
+	 + Catamaran Hull
+	Hardware
+	 + Consumer Cassette Deck Click
+	 + Consumer Cassette Deck Sweep
+	 + Magical 2830 Interface Passive Reamp DI Loopback
+	 + Magical 2830 Interface RCA Loopback
+	 + Portable Cassette Recorder Click Mic In Line Out
+	 + Portable Cassette Recorder Click Mic In Speaker Out
+	 + Portable Cassette Recorder Sweep Direct In Line Out
+	 + Portable Cassette Recorder Sweep Mic In Speaker Out
+	 + Sticky Quarter Inch 4 Track R2R Click Mono Low Gain
+	 + Sticky Quarter Inch 4 Track R2R Click Stereo High Gain
+	 + Sticky Quarter Inch 4 Track R2R Click Stereo Low Gain
+	 + Sticky Quarter Inch 4 Track R2R Sweep Stereo
+	Instruments
+	 + Antique Keyboard Glockenspiel
+	 + Autoharp A7
+	 + Autoharp Am
+	 + Autoharp Bb
+	 + Autoharp C
+	 + Autoharp C7
+	 + Autoharp Chromatic
+	 + Autoharp D
+	 + Autoharp D7
+	 + Autoharp Damped
+	 + Autoharp Dm
+	 + Autoharp E7
+	 + Autoharp Eb
+	 + Autoharp F
+	 + Autoharp F7
+	 + Autoharp G
+	 + Autoharp G7
+	 + Autoharp Gm
+	 + Bent Mouthpiece Tube
+	 + China Cymbal Contact Damped
+	 + China Cymbal Contact Resonant
+	 + China Cymbal Sweep SDC 1
+	 + China Cymbal Sweep SDC 2
+	 + Dramyin
+	 + Glockenspiel Sweep 1
+	 + Glockenspiel Sweep 2
+	 + Lap Harp 1
+	 + Lap Harp 2
+	 + Marx Violin-Uke
+	 + Pink Grand Toy Piano
+	 + Rawap
+	 + Steel Pan Medium Sweep 1
+	 + Steel Pan Medium Sweep 2
+	 + Steel Pan Small Sweep 1
+	 + Steel Pan Small Sweep 2
+	 + Toy Erhu
+	 + Toy Ukulele Character
+	 + Toy Ukulele Cheap
+	 + Toy Ukulele VERY Cheap
+	 + Violin Sweep
+	Objects
+	 + Basilica Dome Glass Bowls Big Contact Weird
+	 + Basilica Dome Glass Bowls Little Contact Weird
+	 + Basilica Dome Glass Bowls Nested Contact Weird
+	 + Broadsword Mid Contact
+	 + Broadsword Tip Contact 1
+	 + Broadsword Tip Contact 2
+	 + Cinder Block Contact Inner
+	 + Cinder Block Contact Outer
+	 + Conch Click
+	 + Conch Contact Sweep
+	 + Conch XY Sweep
+	 + Corrugated Blowing Pipe 1
+	 + Corrugated Blowing Pipe 2
+	 + Corrugated Pipe 1
+	 + Corrugated Pipe 2
+	 + Corrugated Pipe 3
+	 + Cruise Ship Cabin HVAC Ceiling Plate
+	 + Dinosaur Bone 1
+	 + Papaya Tree Inner Trunk Impact
+	 + Papaya Tree Outer Trunk Impact
+	 + Toy Corrugated Pipe 1 Compressed
+	 + Toy Corrugated Pipe 1 Expanded
+	 + Toy Corrugated Pipe 2 Compressed
+	 + Toy Corrugated Pipe 2 Expanded
+	Outdoors
+	 + Florida SR40 Bridge Underpass
+	 + Old Home Backyard Click Weird
+	 + Rockefeller Gardens Field Stage
+	Rooms
+	 + Ancient Wand Shop
+	 + MSB Brick Stairwell Downstairs
+	 + MSB Brick Stairwell Upstairs
+	 + Old Audio Engineering Club Room
+	 + Old Home Fireplace
+	 + OCCC Freight Elevator
+	 + OCCC Theater Storage Barrier
+	Speakers
+	 + Contact Mic on Contact Transducer
+	Springs
+	 + Boom Arm Spring Flick Band Pass
+	 + Boom Arm Spring Flick High Pass
+	 + Boom Arm Spring Flick
+	Synthesized
+	 + Funny Modulated Delay Room
+	 + Resonant Warbled Noise Decay 1
+	 + Resonant Warbled Noise Decay 2
+	 + Resonant Warbled Noise Decay 3
+	 + Granular Room 1 Click 1
+	 + Granular Room 1 Click 2
+	 + Granular Room 1 Click 3
+	 + Granular Room 1 Sweep 1s
+	 + Granular Room 1 Sweep 5s
+	 + Granular Room 1 Sweep 10s
+	 + Granular Room 1 Sweep 50s
+	 + Granular Room 2 Click 1
+	 + Granular Room 2 Click 2
+	 + Granular Room 2 Click 3
+	 + Granular Room 2 Sweep 1s
+	 + Granular Room 2 Sweep 5s
+	 + Granular Room 2 Sweep 10s
+	 + Granular Room 2 Sweep 50s
+	 + Unit Impulse Pitch Remap A
+	 + Unit Impulse Pitch Remap A#
+	 + Unit Impulse Pitch Remap B
+	 + Unit Impulse Pitch Remap C
+	 + Unit Impulse Pitch Remap C#
+	 + Unit Impulse Pitch Remap D
+	 + Unit Impulse Pitch Remap D#
+	 + Unit Impulse Pitch Remap E
+	 + Unit Impulse Pitch Remap F
+	 + Unit Impulse Pitch Remap F#
+	 + Unit Impulse Pitch Remap G
+	 + Unit Impulse Pitch Remap G#
+	 + Unit Impulse Pitch Remap SMASHED Chromatic
+
+
 **1.2.3** - [2023.04.25] A rainy and decently hot April Tuesday
 <br/>
 
