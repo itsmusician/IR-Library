@@ -1,42 +1,41 @@
-#	Conner's Impulse Response Library :)
-A public library of impulse responses for anyone to use freely under the MIT License.
+# Conner's Impulse Response Library :)
+
+A public library of impulse responses for anyone to use freely under the [MIT License.](/License.md)
 <br/>
 
-Latest Version: 1.3.0
+Version: 2.0.0
 <br/><br/><br/>
 
+## Info
 
-##        Info
-This library contains hundreds of impulse responses of a great variety,
-from all kinds locations, spaces, gear, objects, instruments, and more!
+This library contains many impulse responses of a great variety,
+from all kinds of locations, rooms, gear, objects, instruments, and more!
 
-Currently, the library is ~2.1 GB large.
-<br/>
+You can download this library from either the releases section on the side, or by clicking the
+green "Code" button, then download zip.
+
+Currently, the library is ~2 GB uncompressed and contains 738 IRs.
 
 Enjoy!
-<br/>
-
-You can find me here:<br/>
-Discord:	https://discord.gg/rCwH9jW<br/>
-Instagram:	https://www.instagram.com/conner.musician/<br/>
-Soundcloud:	https://soundcloud.com/cs64<br/>
-Spotify:	https://open.spotify.com/artist/7wH1Hp3nRNn7QKnmyT838Y<br/>
-Tiktok:		https://www.tiktok.com/@bemusical<br/>
-Twitch:		https://www.twitch.tv/connermusician<br/>
-Twitter:	https://www.twitter.com/itsmusician<br/>
+<br/><br/>
 
 I created some of the factory impulses for the Kilohearts Convolver and I'm really proud of them!
 <br/>
-Check it out here: https://kilohearts.com/products/convolver
+<https://kilohearts.com/products/convolver>
+<br/>
+
+If you find this library helpful, a donation is always appreciated :)
+<br/>
+<https://ko-fi.com/musician>
 <br/><br/><br/>
 
+## Sentiment
 
-##        Sentiment
 It's my hope to provide a really good starting point for anyone needing a collection of
 impulse responses, for any variety of professional or personal projects. I love being
 able to use impulses to put a sound in a new location, process it wildly, or have it
 occupy a fresh musical context. I hope to give others that same freedom, therefore this
-library exists.
+library exists. The nature of this library is more creative than scientific.
 
 I've decided that assigning a very open license, the MIT License, will help this project
 fulfill that objective and let my intentions for the library to be very permissive become
@@ -49,9 +48,9 @@ nature of this library, and continue to allow these IRs to be accessible and use
 The license may be found below.
 <br/><br/><br/>
 
+## Contributors
 
-##        Contributors
-The following people have directly contributed and helped make this library better
+The following people / orgs have directly contributed and helped make this library better
 either by means of original raw recording sessions for me to create IRs from or by
 contributing their own IRs -- both of which they had all the necessary rights to and
 ownership of, and acknowledge that by contributing them, those IRs fall under the
@@ -59,11 +58,20 @@ licensing terms of this project (The MIT License), free for anyone to use.
 
 Thank you:
 
-- Gater
+<br/>
+
+Gater
+
+- Rooms/Historical/Menorcan Spanish Civil War Bunkers
+
+Liam G
+
+- Rooms/Public/University of Central Florida/Engineering II Atrium Stereo Clap
+
 <br/><br/><br/>
 
+## [Changelog](/Changelog.md)
 
-##            [License](/License.md)
+## [References](/References.md)
 
-
-##            [Changelog](/Changelog.md)
+## [License](/License.md)
