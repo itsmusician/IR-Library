@@ -14,7 +14,7 @@ from all kinds of locations, rooms, gear, objects, instruments, and more!
 You can download this library from either the releases section on the side, or by clicking the
 green "Code" button, then download zip.
 
-Currently, the library is ~2 GB uncompressed and contains 738 IRs.
+Currently, the library is ~1 GB uncompressed and contains 738 IRs.
 
 Enjoy!
 <br/><br/>
